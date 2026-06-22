@@ -13,7 +13,7 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(
 !反AI
 x.com##div[data-testid="cellInnerDiv"]:has-text(
     /盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー/)
-!排斥主義
+!国際
 x.com##div[data-testid="cellInnerDiv"]:has-text(
     /クルド人/)
 !政治
