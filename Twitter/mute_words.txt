@@ -2,29 +2,20 @@
 ! Homepage: https://github.com/daizu-007/daizu-s-block-list
 
 !一般
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /バカ|アホ|死ね|氏ね|カス|糖質|統合失調|アスペルガー|アスペ|花畑/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/バカ|アホ|死ね|氏ね|カス|糖質|統合失調|アスペルガー|アスペ|花畑/)
 !追加
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|ドパガキ|ドーパミン|ドパミン/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|ドパガキ|ドーパミン|ドパミン/)
 !性
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /フェミ|フェミニスト|女性専用車両|水商売|売春|弱者男性|男|女|トイレ|性別|痴漢|冤罪/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/フェミ|フェミニスト|女性専用車両|水商売|売春|弱者男性|男|女|トイレ|性別|痴漢|冤罪/)
 !オタク
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /チー牛|撮り鉄|オタクくん/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/チー牛|撮り鉄|オタクくん/)
 !反AI
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/盗作|AI絵師|生成AIユーザー|AI絵師|AI技師|AI術師|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー/)
 !国際
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /クルド人/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/クルド人/)
 !政治
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /反ワク|ネトウヨ|極右|極左|左翼|右翼|パヨク|財務省|裏金|利権|マスコミ|マスゴミ|K国|既得権益|警察|警官|警備員/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/反ワク|ネトウヨ|極右|極左|左翼|右翼|パヨク|財務省|裏金|利権|マスコミ|マスゴミ|K国|既得権益|警察|警官|警備員/)
 !ゴシップ
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /不倫|浮気|不貞|広陵/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/不倫|浮気|不貞|広陵/)
 !スパム
-x.com##div[data-testid="cellInnerDiv"]:has-text(
-    /吹いた|わかる。|@grok|落ち着いて聞いてください|落ち着いて聞いて下さい/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/吹いた|わかる。|@grok|落ち着いて聞いてください|落ち着いて聞いて下さい/)
