@@ -9,4 +9,4 @@ daizu-007が管理するuBlock Originのブロックリストです。
 ## フィルターリスト
 ### Twitter Mute Words
 Twitterで不快なポストを非表示にするためのフィルターです。アカウントに関わらず、また抜け漏れなく、検索結果も含めてブロックします。  
-インストール:
+インストール: https://raw.githubusercontent.com/daizu-007/daizu-s-block-list/refs/heads/main/Twitter/mute_words.txt
