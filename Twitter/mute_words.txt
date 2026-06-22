@@ -1,3 +1,6 @@
+! Title: daizu's twitter mute words
+! Homepage: https://github.com/daizu-007/daizu-s-block-list
+
 !一般
 x.com##div[data-testid="cellInnerDiv"]:has-text(
     /バカ|アホ|死ね|氏ね|カス|糖質|統合失調|アスペルガー|アスペ|花畑/)
